@@ -1,4 +1,9 @@
 {
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:is2ei/moleculer-typetalk-example.git"
+    },
+    "license": "MIT",
     "dependencies": {
         "moleculer": "^0.13.7",
         "moleculer-typetalk": "^0.1.2"
